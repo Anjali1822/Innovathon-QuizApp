@@ -38,14 +38,21 @@ solved by admin as well as the users of this application.
 
 
 
+
 ![Img2](https://user-images.githubusercontent.com/100554023/193872856-46ad9453-8b6a-4de6-bb00-f11643d603a1.png)
 ![Img1](https://user-images.githubusercontent.com/100554023/193872822-c6caaf89-f4bf-4a63-bb26-4f98689d17de.png) 
+![Pic1](https://user-images.githubusercontent.com/100554023/193880737-b2fb0ee5-a613-4ce1-8bf5-ed3d0b927390.png)
+![Pic2](https://user-images.githubusercontent.com/100554023/193880777-a4a24b55-ecf1-479c-9597-fc4f26729b62.png)
 
 
-![Img333](https://user-images.githubusercontent.com/100554023/193877416-10971156-9225-4f42-a350-76b787260cf0.jpg)
+
+![Pic3](https://user-images.githubusercontent.com/100554023/193880986-7d5b5c82-f909-4670-8672-30bc5217afbf.png)
+
+![Pic4](https://user-images.githubusercontent.com/100554023/193881042-b3f2fede-22bc-4064-ba4a-41d4e65929df.png)
 
 
 ------------------------------------------------------
+
 
 # Functionality & Concepts used :-
 
