@@ -37,16 +37,14 @@ solved by admin as well as the users of this application.
 
 # Proposed Solution with Screenshots :-
 
-<img src="https://user-images.githubusercontent.com/100554023/193882521-c1469703-7ccc-4c10-9081-9a3840624f9f.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882469-56646732-dca9-4211-a46a-97f1589037f0.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882662-8e40fc7d-51b2-499f-9422-7b0fd175e6c7.png" width="300" height="400"/> 
+<img src="https://user-images.githubusercontent.com/100554023/193882521-c1469703-7ccc-4c10-9081-9a3840624f9f.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882469-56646732-dca9-4211-a46a-97f1589037f0.png" width="300" height="400"/> 
+---------------------------
 
--------------------------------------
-
-
-<img src="https://user-images.githubusercontent.com/100554023/193882553-5db2d5fa-6433-4e4a-8b5f-1d3786d314ee.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882579-645139fd-be93-4f39-9acf-db6e5be66a72.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882663-ae6b706a-336a-416e-a235-900b1a753fb3.png" width="300" height="400"/>
-
+<img src="https://user-images.githubusercontent.com/100554023/193882662-8e40fc7d-51b2-499f-9422-7b0fd175e6c7.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882553-5db2d5fa-6433-4e4a-8b5f-1d3786d314ee.png" width="300" height="400"/>
+--------------------------
 
 
-
+ <img src="https://user-images.githubusercontent.com/100554023/193882579-645139fd-be93-4f39-9acf-db6e5be66a72.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882663-ae6b706a-336a-416e-a235-900b1a753fb3.png" width="300" height="400"/>
 
 ------------------------------------------------------
 
