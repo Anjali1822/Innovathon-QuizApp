@@ -10,6 +10,12 @@ Implemented a Quiz app using kotlin, jetpack-compose for Innovathon 2022 by GDSC
 
 The Aim is to assist Teachers and Students to learn thing and understand them not only through reading but also involving them into and interactive quiz section so that he/she can test what points they are weaker in, so that they can improve themselves.
 
+    There are four Activities in the app :
+    
+    1. Main - displays Home Screen of application.
+    2. Questions - displays MCQ's and currents Score.
+    3. Results - displays Results after finishing the quiz.
+    4. Developers - displays the information about the developers
 
 ----------------------------------------------------------
 
