@@ -40,17 +40,7 @@ solved by admin as well as the users of this application.
 
 ![Img2](https://user-images.githubusercontent.com/100554023/193872856-46ad9453-8b6a-4de6-bb00-f11643d603a1.png)
 ![Img1](https://user-images.githubusercontent.com/100554023/193872822-c6caaf89-f4bf-4a63-bb26-4f98689d17de.png) 
-![Screenshot_2022-10-01-17-23-02-80_3e17b21c430a25da8e73a1969485618f](https://user-images.githubusercontent.com/100554023/193873670-c70f7429-a3b7-442d-9d06-da0b56f070e1.jpg)
-
-
-![IMG_20221004_215324](https://user-images.githubusercontent.com/100554023/193874202-bddd2924-1b28-473b-ae03-5d9cbedf4d3a.jpg)
-
-
-![IMG_20221004_215333](https://user-images.githubusercontent.com/100554023/193874227-7b603cac-3142-48eb-a718-7a9494cee0b9.jpg)
-
-
-
-![IMG_20221004_215359](https://user-images.githubusercontent.com/100554023/193874269-a9631adf-e7c4-41c9-93a3-673182531b62.jpg)
+![Img33](https://user-images.githubusercontent.com/100554023/193875923-756f6c92-f0d2-4ed5-82a5-8ad6a142e74f.jpg)
 
 
 
