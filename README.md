@@ -1,6 +1,6 @@
 # Innovathon-QuizApp
 
-![Screenshot (95)](https://user-images.githubusercontent.com/100554023/193406665-f9584ce5-1066-4207-aba1-4f9b82909e97.png)
+ &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  ![Screenshot (95)](https://user-images.githubusercontent.com/100554023/193406665-f9584ce5-1066-4207-aba1-4f9b82909e97.png)
 
 Implemented a Quiz app using kotlin, jetpack-compose for Innovathon 2022 by GDSC PVGCOET
 
@@ -37,38 +37,23 @@ solved by admin as well as the users of this application.
 # Proposed Solution with screenshots :-
 
 
-
-
-![Img2](https://user-images.githubusercontent.com/100554023/193872856-46ad9453-8b6a-4de6-bb00-f11643d603a1.png)
-![Img1](https://user-images.githubusercontent.com/100554023/193872822-c6caaf89-f4bf-4a63-bb26-4f98689d17de.png) 
-![Pic1](https://user-images.githubusercontent.com/100554023/193880737-b2fb0ee5-a613-4ce1-8bf5-ed3d0b927390.png)
-![Pic2](https://user-images.githubusercontent.com/100554023/193880777-a4a24b55-ecf1-479c-9597-fc4f26729b62.png)
-
-
-
-![Pic3](https://user-images.githubusercontent.com/100554023/193880986-7d5b5c82-f909-4670-8672-30bc5217afbf.png)
-
-![Pic4](https://user-images.githubusercontent.com/100554023/193881042-b3f2fede-22bc-4064-ba4a-41d4e65929df.png)
-
-
 ------------------------------------------------------
-
 
 # Functionality & Concepts used :-
 
- Account login: Student/user can login using login id and password.
+    Account login: Student/user can login using login id and password.
 
- Account logout: Student/user can logout the account whenever
- required.
+    Account logout: Student/user can logout the account whenever
+    required.
 
- Result: Student/user attempted the quiz and gets a result.
+    Result: Student/user attempted the quiz and gets a result.
 
- Feedback: Student/user can give a feedback.
+    Feedback: Student/user can give a feedback.
 
- Play quiz: Student/user can play the quiz according to his/her
- choice.
+    Play quiz: Student/user can play the quiz according to his/her
+    choice.
 
- Add Questions: Admin can add the question by selecting the topic.
+    Add Questions: Admin can add the question by selecting the topic.
  
  
 ![Screenshot (99)](https://user-images.githubusercontent.com/100554023/193407677-4e9e2f7a-75f2-496e-8697-bd49c0ff95c9.png)
@@ -82,8 +67,39 @@ solved by admin as well as the users of this application.
 
 # Application Link & Future Scope :-
 
+1. Engage your audience
 
+Engage your audience in a unique and fun way and connect them to your brand or learning material. By creating a returning event, you will improve your consumer loyalty.
 
+2. Large number
+
+Taking online quizzes makes it possible to have a large number of participants. It could be up to a number of 1000 participants (and even more!). It doesn’t matter at what kind of location they take the online quiz as long as they are connected to the Internet.
+
+3. Randomizing questions
+
+It is significant more easy to randomize your question with just one click than to do it all manually. Randomizing questions and even answers of those questions is not a lot a of work to do with online quizzes. Besides the advantage of time saving, it also helps preventing students from cheating.
+
+4. Quiz results/ gain insight in audience
+ 
+Another plus of online quizzes is getting immediate results from your participants. Not only does the creator get the results, the participant itself is also possible to get his or her results. This makes it for the creator easy to identify the gaps in knowledge. The participants are able to view on what kind of section they have to improve themselves.
+
+5. No instructor needed
+ 
+Quizzes can be given without an instructor, which saves money and time :)
+
+6. Set timer
+ 
+The creator is able to set a timer for the whole quiz or to set a timer per question. This is possible to do with written quizzes, but is very time consuming for the instructor. Plus it’s almost impossible to do with a huge amount of participants.
+
+7. Better overview
+
+It’s possible to show one question at the time with online quizzes. People are not able to skip a question, because you will get a reminder that you can’t leave the answer blank.
+
+8. Improve your brand
+
+There are several ways to gain more brand awareness: Generate new interactive sales opportunities, build your traffic to your online channels, improve time spent on site and improve the sharing on social media about your campaign and brand.
+
+![quiz-comic-pop-art-style_175838-505](https://user-images.githubusercontent.com/100554023/193881925-3fde36bc-c331-4c20-8126-cf5ac86a6622.jpg)
 
 
 ------------------------------------------------------
