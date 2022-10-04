@@ -10,6 +10,11 @@ Implemented a Quiz app using kotlin, jetpack-compose for Innovathon 2022 by GDSC
 
 The Aim is to assist Teachers and Students to learn thing and understand them not only through reading but also involving them into and interactive quiz section so that he/she can test what points they are weaker in, so that they can improve themselves.
 
+
+----------------------------------------------------------
+
+# Proposed Solution with Screenshots :-
+
 The main requirement of application is to find questions and
 answers. In this application firstly the user need to register or
 login using user-id and password. 
@@ -32,10 +37,6 @@ shown on the window.
 The query related to a question can we
 solved by admin as well as the users of this application. 
 
-
-----------------------------------------------------------
-
-# Proposed Solution with Screenshots :-
 
 <img src="https://user-images.githubusercontent.com/100554023/193882521-c1469703-7ccc-4c10-9081-9a3840624f9f.png" width="300" height="400"/> <img src="https://user-images.githubusercontent.com/100554023/193882469-56646732-dca9-4211-a46a-97f1589037f0.png" width="300" height="400"/> 
 ---------------------------
