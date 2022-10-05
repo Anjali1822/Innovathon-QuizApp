@@ -117,6 +117,12 @@ There are several ways to gain more brand awareness: Generate new interactive sa
 
 ![quiz-comic-pop-art-style_175838-505](https://user-images.githubusercontent.com/100554023/193881925-3fde36bc-c331-4c20-8126-cf5ac86a6622.jpg)
 
+----------------------------------------------------
+# Conclusion :-
+
+  Interactive online quizzes not only help teachers with teaching techniques during e-learning but also have a beneficial impact on students. Increasing students' involvement, motivation, better score and stress reduction are several benefits that students get through fun online quizzes. 
+
+
 
 ------------------------------------------------------
 
@@ -126,3 +132,12 @@ There are several ways to gain more brand awareness: Generate new interactive sa
 2. Gdsc events
 3. Youtube 
 
+
+---------------------------------------------------
+
+Contributed by:-
+
+ <a href="https://github.com/aniketsingh10">1. Aniket Singh</a>
+ 
+ <a href="https://github.com/Anjali1822">2. Anjali Bhawari</a>
+ 
