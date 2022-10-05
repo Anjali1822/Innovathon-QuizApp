@@ -133,11 +133,4 @@ There are several ways to gain more brand awareness: Generate new interactive sa
 3. Youtube 
 
 
----------------------------------------------------
-
-Contributed by:-
-
- <a href="https://github.com/aniketsingh10">1. Aniket Singh</a>
- 
- <a href="https://github.com/Anjali1822">2. Anjali Bhawari</a>
  
